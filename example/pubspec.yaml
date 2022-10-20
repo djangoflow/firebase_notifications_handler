@@ -1,7 +1,7 @@
 name: notifications_handler_demo
 description: Demo project for the package firebase_notifications_handler on pub.dev
 
-publish_to: 'none'
+publish_to: "none"
 
 version: 1.0.0+1
 
@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  firebase_core: ^1.15.0
+  firebase_core: ^2.0.0
   easy_container: ^1.0.3
   firebase_notifications_handler:
     path: "../"
